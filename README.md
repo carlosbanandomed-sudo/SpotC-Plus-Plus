@@ -1,4 +1,4 @@
-# SpotC++
+    # SpotC++
 <h1 align="center">
 
 ![GitHub all releases](https://img.shields.io/github/downloads/SpotCompiled/SpotC-Plus-Plus/total?label=Downloads&style=for-the-badge) 
